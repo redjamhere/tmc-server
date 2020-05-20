@@ -1,1 +1,1 @@
-# tmc-server
+# Backend project based on Nest JS server-side framework
